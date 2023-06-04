@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnboringApp</string>
+    <string name="texto_aleatorio">Click em Aleatório</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Aleatorio">Aleatório</string>
+    <string name="Api_Respota">Api Respota</string>
+</resources>
