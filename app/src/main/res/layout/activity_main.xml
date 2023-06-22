@@ -14,6 +14,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"/>
 
+
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/txtView"
         android:layout_width="wrap_content"
@@ -42,4 +43,17 @@
         android:text="@string/Aleatorio"
         android:layout_marginTop="16dp"/>
 
-    </RelativeLayout>
+
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:visibility="gone"
+
+            />
+
+
+
+</RelativeLayout>
