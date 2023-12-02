@@ -9,6 +9,7 @@ Tecnologias e bibliotecas utilizadas
 - [x] [Material Desing](https://material.io/design)
 - [x] [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences)
  - [x] [Retrofit](https://square.github.io/retrofit/)
+  - [x] [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 <h3>Imagem do Projeto</h3>
 
